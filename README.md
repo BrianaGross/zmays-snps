@@ -5,3 +5,6 @@ Samples expected from sequencing core 2017-01-10
 \n\nMaize reference genome version: refgen3
 \nAdapter file: adapters.fa
 This is a test
+This is a new line to test
+This is a mistake
+This is a test to see if github is connected
